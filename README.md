@@ -36,7 +36,7 @@
 # db_shell: /bin/bash
 # db_gecos: <empty>
 db_home:  /%H
-````
+```
 
 # Cambiar la ruta home de Cygwin para que corresponda con la del usuario de Windows
 buscar archivo nsswitch.con
