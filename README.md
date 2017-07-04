@@ -69,13 +69,13 @@ Control A: ir al inicio de la línea
 **git clone**
 
 **PARA COPIAR LOS ARCHIVOS EN LOCAL EN GIT EN UN DIRECTORIO VACÍO DE GITHUB**
-´´´
+```
 git init
 git add README.md
 git commit -m "primer commit"
 git remote add origin https://github.com/tu_usuarix/nombre_proyecto.git
 git push -u origin master
-´´´
+```
 
 **PARA NAVEGAR EN ARCHIVOS CSV**
 - **cat nombrearchivo.csv | wc -l**
