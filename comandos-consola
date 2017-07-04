@@ -1,4 +1,4 @@
-**pwd** print working directory "Dime dónde estoy"
+** pwd ** print working directory "Dime dónde estoy"
 **cd** change directory (si no pones el espacio te va directamente a la home)
 **ls** listar
 **ls -a** listar todo
