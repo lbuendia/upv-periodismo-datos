@@ -18,3 +18,4 @@
 - XML: uno de los formatos de datos más usado. (KML: tipo de XML para geolocalizar datos)
 - CSV: coma separated values. (también TSV, *SV cualquier cosa separada por valores). 
 - JSON: para páginas web (javascript Object notation)
+- School of data: recursos para formación <https://schoolofdata.org/> 
